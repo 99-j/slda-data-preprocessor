@@ -22,6 +22,7 @@ term; it is not a string.
 Each line contains a `true_narrative` value for the article.
 
 ```
+0
 1
 1
 2
