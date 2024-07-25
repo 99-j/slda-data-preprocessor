@@ -1,4 +1,4 @@
-# SLDA-data-preprossor
+# SLDA-data-preprocessor
 
 By accepting multiple articles, it produces two files describing each aritcles statistics.
 
@@ -31,6 +31,10 @@ Each line contains a `true_narrative` value for the article.
 ## Input
 
 ### A json file with one or more articles with following format:
+
+- title: article title
+- body: article contents
+- true_narrative: article narrative standpoint value
 
 ```json
 [
